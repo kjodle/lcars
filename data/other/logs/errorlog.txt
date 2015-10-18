@@ -1,2 +1,0 @@
-[01-Aug-2014 00:37:54 UTC] PHP Notice:  Undefined index: existing-url in C:\Program Files (x86)\EasyPHP-12.0\www\GetSimpleThemes\lcars\admin\changedata.php on line 198
-[01-Aug-2014 00:37:54 UTC] PHP Notice:  Undefined index: existing-url in C:\Program Files (x86)\EasyPHP-12.0\www\GetSimpleThemes\lcars\admin\changedata.php on line 201
