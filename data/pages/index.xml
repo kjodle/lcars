@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 30 Jul 2014 16:03:58 -0400</pubDate><title><![CDATA[LCARS-Next-Gen: A new theme for GetSimple]]></title><url><![CDATA[index]]></url><meta><![CDATA[getsimple, theme, kjodle.net, Kenneth John Odle, CSS3, HTML5]]></meta><metad><![CDATA[LCARS-Next-Gen is an exciting new theme for the GetSimple CMS, based on the computer displays of Star Trek: The Next Generation.]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;LCARS-Next-Gen is a theme for the &lt;a href=&quot;http://get-simple.info/&quot;&gt;Get Simple CMS&lt;/a&gt;. It is designed to resembled the computer displays from the &lt;em&gt;Enterprise-D &lt;/em&gt;(NCC-1701D) from &lt;em&gt;Star Trek: The Next Generation&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;It is written in HTML5 and CSS3, uses a custom font for display headings, and supports both &lt;span style=&quot;font-family:lucida sans unicode,lucida grande,sans-serif;&quot;&gt;get_header() &lt;/span&gt;and &lt;span style=&quot;font-family:lucida sans unicode,lucida grande,sans-serif;&quot;&gt;get_footer() hooks&lt;/span&gt;. It also includes the HTML shim, enabling support of HTML5 elements in Internet Explorer 6-9. It includes a single navigation bar and dual sidebars to the right of the main content area.&lt;/p&gt;
+&lt;p&gt;It also includes a custom font that replicates the appearance of the text.&lt;/p&gt;
+&lt;p&gt;It is printer friendly, printing the content only (specifically, the header, navigation menu, footer, and sidebars will not print). Additionally, if you are using the &lt;a href=&quot;http://get-simple.info/extend/plugin/sa-gs-admin-toolbar/483/&quot; target=&quot;_blank&quot;&gt;SA GS Admin Toolbar&lt;/a&gt;, those links will not print either.&lt;/p&gt;
+&lt;p&gt;For more information about this theme, including where to download it, please visit the &lt;a href=&quot;http://127.0.0.1/GetSimpleCMS-3.3.2/support/&quot;&gt;Support&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;Tags:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;dark&lt;/li&gt;
+	&lt;li&gt;black&lt;/li&gt;
+	&lt;li&gt;orange&lt;/li&gt;
+	&lt;li&gt;yellow&lt;/li&gt;
+	&lt;li&gt;science fiction&lt;/li&gt;
+	&lt;li&gt;television&lt;/li&gt;
+	&lt;li&gt;sidebar&lt;/li&gt;
+	&lt;li&gt;custom font&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you for using GetSimple CMS.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://get-simple.info/forums/&quot;&gt;GetSimple CMS Documentation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://get-simple.info/forums/&quot;&gt;GetSimple Support Forums&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[ken]]></author></item>

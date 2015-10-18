@@ -1,0 +1,38 @@
+#header,
+#nav,
+#sidebar,
+#sidebar2,
+#footer,
+#sa_toolbar {
+	display: none;
+}
+
+* {
+	color: #000;
+}
+
+body,
+#container,
+#content {
+	width: 100%;
+	margin: auto;
+	border: none;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: tahoma,verdana,arial,sans-serif;
+}
+p,ol,ul,li,dd,dl,dt {
+	font-family: serif;
+	font-size: 11pt;
+}
+h1 {font-size: 18pt;}
+
+.url {
+	font-family: tahoma,verdana,arial,sans-serif;
+	font-size: 10pt;
+	padding: 5pt;
+	width: 75%;
+	margin: 10pt auto;
+	border: solid 1pt #999;
+	border-left: solid 8pt #999;
+}
